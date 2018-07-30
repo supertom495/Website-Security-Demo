@@ -1,0 +1,16 @@
+static_file 的格式
+
+user 是存储基本信息的字典
+
+加入东西进字典
+user["username"] = [("password"),("email@gmail.com"),("memberType")]
+                        0               1                  2
+
+
+
+vehicle["username"] = [(demerits points of the license, -1 mean dont have license),
+                                       3
+
+
+                    (fine received), ("vehicle relate")]
+                        4                   5
